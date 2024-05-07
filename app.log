@@ -1,0 +1,2 @@
+INFO:root:Executing add function with arguments: 1, 7.5
+ERROR:root:One of the args is not a number
